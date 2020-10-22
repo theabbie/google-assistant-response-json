@@ -1,8 +1,4 @@
-# google-assistant-response-json
-Google Assistant JSON Response Generator Function
-
-```js
-function create(msg, card, sugg, data, list, link) {
+module.exports = function(msg, card, sugg, data, list, link) {
   var result = {
     "fulfillmentText": msg,
     "payload": {
@@ -94,4 +90,3 @@ function create(msg, card, sugg, data, list, link) {
   return result;
 }
 
-```

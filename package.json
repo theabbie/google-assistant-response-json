@@ -1,0 +1,25 @@
+{
+  "name": "google-assistant-response-json",
+  "version": "1.0.0",
+  "description": "Google Assistant JSON Response Generator Function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"working\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/google-assistant-response-json.git"
+  },
+  "keywords": [
+    "google-assistant",
+    "json",
+    "theabbie",
+    "actions-on-google"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/google-assistant-response-json/issues"
+  },
+  "homepage": "https://github.com/theabbie/google-assistant-response-json#readme"
+}
