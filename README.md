@@ -1,5 +1,9 @@
-# google-assistant-response-json
-Google Assistant JSON Response Generator Function
+# Google Assistant Response JSON
+Google Assistant JSON Response Generator Function. 
+  
+  
+![Google Assistant](https://user-images.githubusercontent.com/17960677/96824492-954f3c00-144c-11eb-8ebc-f0788df4b650.png)
+
 
 ```js
 function create(msg, card, sugg, data, list, link) {
